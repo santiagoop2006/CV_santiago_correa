@@ -6,7 +6,6 @@
 
 ## 📞 Contacto
 - **Email:** [santiagoop81@gmail.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **sena** _(2025 - Actualidad)_
